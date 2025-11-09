@@ -1,0 +1,10 @@
+train: ../data/images/train
+val: ../data/images/test
+
+nc: 4
+
+names:
+  - crosswalk
+  - speedlimit
+  - stop
+  - trafficlight
